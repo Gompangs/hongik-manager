@@ -15,6 +15,10 @@ DB : MySQL
 
 Hosting : Heroku
 
+CI / CD : Github Actions
+
+Communication Tools : Github Wiki / Projects
+
 ## Contributors
 Manager : @Gompangs
 
