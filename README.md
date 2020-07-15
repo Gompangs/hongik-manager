@@ -13,4 +13,5 @@ Hosting : Heroku
 
 ## Contributors
 Manager : @Gompangs
+
 Developers : 
