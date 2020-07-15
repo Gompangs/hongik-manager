@@ -1,4 +1,4 @@
-# hongik-manager
+# hongik-community
 홍익대학교 수강신청 시뮬레이션 / 커뮤니티 개발 프로젝트
 
 ## Getting Started
