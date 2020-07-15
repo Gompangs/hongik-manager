@@ -10,3 +10,7 @@ Language : JAVA
 Front : HTML5, Mustache
 DB : MySQL
 Hosting : Heroku
+
+## Contributors
+Manager : @Gompangs
+Developers : 
